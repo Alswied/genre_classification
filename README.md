@@ -1,2 +1,2 @@
 # genre_classification
-E2E Machine Learning Pipeline
+Udacity - E2E Machine Learning Pipeline
